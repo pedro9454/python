@@ -4,9 +4,8 @@ resultado = numero % 2
 if resultado == 0:
     print('O número é par!')
 else:
-    print('O númeor é impar!')
+    print('O número é ímpar!')
 
 # O resto da divisão inteira de qualquer número par por dois é zero.
 # O resto da divisão inteira de qualquer número ímpar por dois é um.
-
 
